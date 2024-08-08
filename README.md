@@ -1,4 +1,4 @@
-# SQL-Pizza_sales_Project_MySQL
+# MySQL-Pizza_sales_Project
 
 Welcome to the Pizza Sales Report project, where we leverage SQL for data analysis. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
 
